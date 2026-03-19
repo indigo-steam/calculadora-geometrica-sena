@@ -1,0 +1,6 @@
+# Primary color controls focus and highlight states in Streamlit widgets
+[theme]
+primaryColor = "#1f77ff"
+backgroundColor = "#0e1117"
+secondaryBackgroundColor = "#262730"
+textColor = "#ffffff"
